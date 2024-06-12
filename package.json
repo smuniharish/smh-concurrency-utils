@@ -1,6 +1,6 @@
 {
   "name": "smh-concurrency-utils",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Locale Helper",
   "main": "lib/index.js",
   "scripts": {
