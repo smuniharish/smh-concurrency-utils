@@ -1,6 +1,6 @@
 # smh-concurrency-utils
 
-smh-concurrency-utils
+Hardware Concurrency Optimizer helps developers efficiently determine the number of available hardware concurrencies on a system, even when other software or hardware resources are already in use. This package is ideal for optimizing multi-threaded or parallelized applications, ensuring that your processes can be executed without overloading the system.
 
 ## Installation
 ```sh
