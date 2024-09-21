@@ -1,8 +1,9 @@
 {
   "name": "smh-concurrency-utils",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Locale Helper",
   "main": "lib/index.js",
+  "license": "MIT with Partial Redistribution License",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -28,7 +29,6 @@
     "utils"
   ],
   "author": "S MUNI HARISH (smuniharish) <samamuniharish@gmail.com> (https://github.com/smuniharish/)",
-  "license": "MIT",
   "devDependencies": {
     "@babel/parser": "^7.25.6",
     "@types/jest": "^29.5.13",
