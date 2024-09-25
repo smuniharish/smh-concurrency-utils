@@ -1,9 +1,10 @@
 {
   "name": "smh-concurrency-utils",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Locale Helper",
   "main": "lib/index.js",
-  "license": "MIT with Partial Redistribution License",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -47,8 +48,5 @@
   ],
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "smh-concurrency-utils": "file:"
   }
 }
